@@ -1,4 +1,3 @@
-Python
 print("day2")
 name="Mao"
 print("Hallo,"GitHab!")
