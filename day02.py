@@ -1,5 +1,5 @@
 print("day2")
-name="Mao"
-print("Hallo,"GitHab!")
-age=26
+name = "Mao"
+print("Hallo, GitHub!")
+age = 26
 print(age)
